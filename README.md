@@ -29,7 +29,7 @@ CONCLUSIONS: ERS is a useful tool for characterizing cumulative risk from pollut
 Park, S.K., Zhao, Z. and Mukherjee, B., 2017. Construction of environmental risk score beyond standard linear models using machine learning methods: application to metal mixtures, oxidative stress and cardiovascular disease in NHANES. Environmental Health, 16(1), p.102.
 https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0310-9
 
-##### **SAMPLE R CODE**: [ERS_Environmental Health_2017_.R](https://github.com/um-mpeg/Environmental-Risk-Score/blob/master/ERS_Environmental%20Health_2017_.R)
+##### **SAMPLE R CODE**: [ERS_Environmental Health_2017_.R](https://github.com/um-mpeg/Environmental-Risk-Score/blob/master/ERS_Environmental%20Health_2017_.R),  Provided by [Zhangchen Zhao](https://github.com/ZhangchenZhao/Environmental-Risk-Score)
 
 
 ## Associations of cumulative exposure to heavy metal mixtures with obesity and its comorbidities among U.S. adults in NHANES 2003–2014
@@ -49,4 +49,4 @@ CONCLUSIONS: Our study suggests that cumulative exposure to heavy metals as mixt
 Wang, X., Mukherjee, B. and Park, S.K., 2018. Associations of cumulative exposure to heavy metal mixtures with obesity and its comorbidities among US adults in NHANES 2003–2014. Environment international, 121, pp.683-694.
 https://www.sciencedirect.com/science/article/pii/S0160412018312650
 
-##### **SAMPLE R CODE**: [ERS_Obesity_NHANES_Environment_International_2018.R](https://github.com/um-mpeg/Environmental-Risk-Score/blob/master/ERS_Obesity_NHANES_Environment_International_2018.R)
+##### **SAMPLE R CODE**: [ERS_Obesity_NHANES_Environment_International_2018.R](https://github.com/um-mpeg/Environmental-Risk-Score/blob/master/ERS_Obesity_NHANES_Environment_International_2018.R),  Provided by [Xin Wang](https://github.com/XinWangUmich/Environmental-Risk-Score-AENET-)
