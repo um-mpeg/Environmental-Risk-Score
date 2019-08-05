@@ -49,4 +49,4 @@ CONCLUSIONS: Our study suggests that cumulative exposure to heavy metals as mixt
 Wang, X., Mukherjee, B. and Park, S.K., 2018. Associations of cumulative exposure to heavy metal mixtures with obesity and its comorbidities among US adults in NHANES 2003–2014. Environment international, 121, pp.683-694.
 https://www.sciencedirect.com/science/article/pii/S0160412018312650
 
-##### **SAMPLE R CODE**: ERS_Obesity_NHANES_Environment_International_2018.R
+##### **SAMPLE R CODE**: [ERS_Obesity_NHANES_Environment_International_2018.R](https://github.com/um-mpeg/Environmental-Risk-Score/blob/master/ERS_Obesity_NHANES_Environment_International_2018.R)
