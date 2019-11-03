@@ -50,3 +50,17 @@ Wang, X., Mukherjee, B. and Park, S.K., 2018. Associations of cumulative exposur
 https://www.sciencedirect.com/science/article/pii/S0160412018312650
 
 ##### **SAMPLE R CODE**: [ERS_Obesity_NHANES_Environment_International_2018.R](https://github.com/um-mpeg/Environmental-Risk-Score/blob/master/ERS_Obesity_NHANES_Environment_International_2018.R),  Provided by [Xin Wang](https://github.com/XinWangUmich/Environmental-Risk-Score-AENET-)
+
+
+## Does Information on Blood Heavy Metals Improve Cardiovascular Mortality Prediction?
+**ABSTRACT**
+
+BACKGROUND: To evaluate whether blood markers of lead, cadmium, and mercury can improve prediction for cardiovascular disease (CVD) mortality when added individually, jointly, or as an integrative index/Environmental Risk Score (ERS), in a model with established risk factors.
+
+METHODS AND RESULTS: Our study sample comprised 16,028 adults aged ≥40 years who were enrolled in the National Health and Nutrition Examination Survey 1999–2012 and followed up through December 31, 2015. The study sample was randomly split into training for the ERS construction (n=8043) and testing for the evaluation of prediction performance (n=7985). ERS was computed using elastic‐net penalized Cox's model based on the selected metal predictors predicting CVD mortality. During median follow‐up of 7.2 years, 517 died from CVD. In the training set, linear terms of cadmium and mercury, squared terms of lead and mercury, and all 3 pairwise interactions were selected by elastic‐net for ERS construction. In the testing set, the C‐statistic increased from 0.845 when only established CVD risk factors were in the model to 0.854 when the ERS was additionally added to the model. Addition of all linear, squared, and pairwise interaction terms of blood metals to the Cox's models improved C‐statistic from 0.845 to 0.857. The improvement remained significant when it was assessed by net reclassification improvement and integrated discrimination improvement.
+
+CONCLUSTIONS: Our findings suggest that blood markers of toxic metals can improve CVD risk prediction over the established risk factors and highlight their potential utility for CVD risk assessment, prevention, and precision health.
+
+##### **CITATION**:
+Wang, X., Mukherjee, B. and Park, S.K., 2019. Does Information on Blood Heavy Metals Improve Cardiovascular Mortality Prediction?. Journal of the American Heart Association, 8(21), p.e013571.
+https://www.ahajournals.org/doi/10.1161/JAHA.119.013571
