@@ -1,3 +1,6 @@
+## Park, S.K., Zhao, Z. and Mukherjee, B. Environmental Health 2017;16(1):102. 
+## https://ehjournal.biomedcentral.com/articles/10.1186/s12940-017-0310-9
+
 ###########Bayesian Additive Regression Tree##################
 #metal denotes the training dataset containing all variables##
 ###chem denotes chemicals we are interested from the training set.#
